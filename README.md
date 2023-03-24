@@ -24,3 +24,6 @@ Healthy habits on learning to code, I think it will be:
 .Excercise 
 
 My github page is (here) ( https://github.com/techcodd)
+
+Class 01 [Learning Markdown](https://.https://github.com/techcodd/Reading-Notes-2) 
+Class 01 [Learning Markdown](https://.https://github.com/techcodd/cookie-stand) 
